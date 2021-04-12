@@ -8,7 +8,7 @@
     font-weight: 300;
     font-size: 14px;
     line-height: 22px;
-    color: #000;
+    color: #011;
   }
 
   html {
@@ -23,7 +23,7 @@
   a:hover {
     outline: none;
     text-decoration:none;
-    color:#4fcccd;
+    color:#006070;
   }
 
   a:focus {
